@@ -1,9 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&random=false&width=435&lines=TP+Final+FrontEnd)](https://git.io/typing-svg)
 
-----
 
-
-## Descripción del Proyecto: Desarrollo de una Aplicación Web con MERN 
+## Descripción del Proyecto: Desarrollo de una Aplicación Web 
 
 
 ### ♦ Objetivo

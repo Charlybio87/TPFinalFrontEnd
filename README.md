@@ -2,8 +2,8 @@
 
 ----
 
-## Descripción del Proyecto: Desarrollo de una Aplicación Web con MERN 
 
+## Descripción del Proyecto: Desarrollo de una Aplicación Web con MERN 
 
 
 ### ♦ Objetivo
@@ -17,6 +17,7 @@ El equipo estará compuesto por una solo persona quien intentara darle el diseñ
 ### ♦ Plazo
 
 El proyecto se llevará a cabo en un plazo de 4 semanas, con entrega para el 20 de Octubre establecido por el Profesor Titular del Curso de Diplomatura Full Stack.
+
 
 
 ## Caracteristicas Principales

@@ -1,6 +1,7 @@
 import React from 'react'
 import slider1 from '../../img/Slider-1-la-escuela-de-baristas.jpg'
 import fondo from '../../img/fondo-la-escuela.svg'
+import Sponsors from './Sponsors'
 
 const Main = () => {
   return (
@@ -20,6 +21,7 @@ const Main = () => {
           <a href="http://">Certificación oficial de la Specialty Coffee Association</a>
           <a href="http://">Talleres personalizados para profesionales de la hostelería</a>
         </article>
+        <Sponsors/>
       </main>
     </>
   )

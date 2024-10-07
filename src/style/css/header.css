@@ -29,13 +29,13 @@
 .nav_sup ul{
   display: flex;
 }
-li{
+.nav_sup ul li{
   display: flex;
   align-items: center;
   list-style: none;
   height: 134px;
 }
-li a{
+.nav_sup ul li a{
   padding: 0 14px;
   text-decoration: none;
 }

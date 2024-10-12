@@ -1,8 +1,8 @@
-import img1 from './../../img/tiendas/punto-de-molienda-la-escuela-de-baristas.jpg'
-import img2 from './../../img/tiendas/1-2.jpg'
-import img3 from './../../img/tiendas/9.jpg'
-import img4 from './../../img/tiendas/SCA_barista-uai-1142x1142.jpg'
-import img5 from './../../img/tiendas/SCA_brewing-uai-1142x1142.jpg'
+import img1 from '../src/img/tiendas/punto-de-molienda-la-escuela-de-baristas.jpg'
+import img2 from '../src/img/tiendas/1-2.jpg'
+import img3 from '../src/img/tiendas/9.jpg'
+import img4 from '../src/img/tiendas/SCA_barista-uai-1142x1142.jpg'
+import img5 from '../src/img/tiendas/SCA_brewing-uai-1142x1142.jpg'
 
 
 export const dataCursos = [
@@ -40,24 +40,24 @@ export const dataCursos = [
     curses: [
       {
         id: 0,
-        nombre: 'Home Barista Sensorial – PAMPLONA90,00 €',
+        nombre: 'Home Barista Sensorial - PAMPLONA90,00 €',
         img: img2,
       },
       {
         id: 1,
-        nombre: 'Home Barista Sensorial – PAMPLONA90,00 €',
+        nombre: 'Home Barista Sensorial - PAMPLONA90,00 €',
         img: img2,
       },
       
       {
         id: 2,
-        nombre: 'Home Barista Sensorial – PAMPLONA90,00 €',
+        nombre: 'Home Barista Sensorial - PAMPLONA90,00 €',
         img: img3,
       },
-      
+
       {
         id: 3,
-        nombre: 'Home Barista Sensorial – PAMPLONA90,00 €',
+        nombre: 'Home Barista Sensorial - PAMPLONA90,00 €',
         img: img3,
       },
     ]
@@ -68,37 +68,35 @@ export const dataCursos = [
     curses: [
       {
         id: 0,
-        nombre: 'Combo Barista Skills Básico + Intermedio – SCA1.250,00 €',
+        nombre: 'Combo Barista Skills Básico + Intermedio - SCA1.250,00 €',
         img: img4,
       },
       {
         id: 1,
-        nombre: 'Combo Barista Skills Básico + Intermedio – SCA1.250,00 €',
+        nombre: 'Combo Barista Skills Básico + Intermedio - SCA1.250,00 €',
         img: img4,
       },
-      
       {
         id: 2,
-        nombre: 'Combo Barista Skills Básico + Intermedio – SCA1.250,00 €',
+        nombre: 'Combo Barista Skills Básico + Intermedio - SCA1.250,00 €',
         img: img4,
       },
       {
         id: 3,
-        nombre: 'ensory Skills Professional – SCA1.465,00 €',
+        nombre: 'ensory Skills Professional - SCA1.465,00 €',
         img: img5,
       },
       {
         id: 4,
-        nombre: 'ensory Skills Professional – SCA1.465,00 €',
+        nombre: 'ensory Skills Professional - SCA1.465,00 €',
         img: img5,
       },
       
       {
         id: 5,
-        nombre: 'ensory Skills Professional – SCA1.465,00 €',
+        nombre: 'ensory Skills Professional - SCA1.465,00 €',
         img: img5,
       }
     ]
   }
-
 ]

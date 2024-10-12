@@ -22,7 +22,7 @@ const Footer = () => {
                 <span>
                   Pregunta de seguridad ¿2x3?
                 </span>
-                <input type="text" autocomplete='off' aria-required='true' aria-invalid='false' />
+                <input type="text" autoComplete='off' aria-required='true' aria-invalid='false' />
               </label>
               <input type="hidden" name="" />
             </div>

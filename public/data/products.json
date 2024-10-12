@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "titulo": "Formaciones EB - Escuela de Baristas",
+    "curses": [
+      {
+        "id": 0,
+        "nombre": "Punto de molienda - EB 300 $",
+        "img": "../src/img/tiendas/punto-de-molienda-la-escuela-de-baristas.jpg"
+      },
+      {
+        "id": 1,
+        "nombre": "Punto de molienda - EB 300 $",
+        "img": "../src/img/tiendas/1-2.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Punto de molienda - EB 300 $",
+        "img": "../src/img/tiendas/9.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Punto de molienda - EB 300 $",
+        "img": "../src/img/tiendas/9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "titulo": "Workshops",
+    "curses": [
+      {
+        "id": 0,
+        "nombre": "Home Barista Sensorial – PAMPLONA90,00 €",
+        "img": "../src/img/tiendas/1-2.jpg"
+      },
+      {
+        "id": 1,
+        "nombre": "Home Barista Sensorial – PAMPLONA90,00 €",
+        "img": "../src/img/tiendas/1-2.jpg"
+      },
+      {
+        "id": 2,
+        "nombre": "Home Barista Sensorial – PAMPLONA90,00 €",
+        "img": "../src/img/tiendas/9.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Home Barista Sensorial – PAMPLONA90,00 €",
+        "img": "../src/img/tiendas/9.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "titulo": "Formación SCA - Reglada por Specialty Coffee Association",
+    "curses": [
+      {
+        "id": 0,
+        "nombre": "Combo Barista Skills Básico + Intermedio – SCA1.250,00 €",
+        "img":"../src/img/tiendas/SCA_barista-uai-1142x1142.jpg"
+      },
+      {
+        "id": 1,
+        "nombre": "Combo Barista Skills Básico + Intermedio – SCA1.250,00 €",
+        "img":"../src/img/tiendas/SCA_barista-uai-1142x1142.jpg"
+      },
+      
+      {
+        "id": 2,
+        "nombre": "Combo Barista Skills Básico + Intermedio – SCA1.250,00 €",
+        "img":"../src/img/tiendas/SCA_barista-uai-1142x1142.jpg"
+      },
+      {
+        "id": 3,
+        "nombre": "Sensory Skills Professional – SCA1.465,00 €",
+        "img":"../src/img/tiendas/SCA_barista-uai-1142x1142.jpg"
+      },
+      {
+        "id": 4,
+        "nombre": "Sensory Skills Professional – SCA1.465,00 €",
+        "img":"../src/img/tiendas/SCA_brewing-uai-1142x1142.jpg"
+      },
+      
+      {
+        "id": 5,
+        "nombre": "Sensory Skills Professional – SCA1.465,00 €",
+        "img":"../src/img/tiendas/SCA_brewing-uai-1142x1142.jpg"
+      }
+    ]
+  }
+]

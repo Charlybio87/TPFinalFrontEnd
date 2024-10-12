@@ -3,6 +3,7 @@ footer{
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 2000px;
 }
 .box-footer{
   width: 1316px;

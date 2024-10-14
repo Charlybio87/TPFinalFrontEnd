@@ -2,6 +2,7 @@ import React from 'react'
 import { Footer, Header } from '../../Components/Home'
 import useProducts from '../../hooks/useProducts'
 import '../../style/css/curses.css'
+import { Link } from 'react-router-dom'
 
 const Cursos = () => {
   
@@ -16,7 +17,7 @@ const Cursos = () => {
         <main className='container-curses'>
         {
           objeto.isLoading
-            ? <h2>Cargando</h2>
+            ? <h2>Cargando...</h2>
             : <div> 
               {
                 objeto.products.map((producto)=>{
@@ -29,12 +30,14 @@ const Cursos = () => {
                         {
                           producto.curses.map( (curse)=>{
                           return (
-                            <div key={curse.id}  className='curse-container'>
-                              <div className='img-container'>
-                                <img src={curse.img} alt={curse.img} className='styled-img'/>
-                                <p className='styled-p'>{curse.nombre} – <strong>{curse.precio}</strong></p>
+                            <Link key={curse.nombre} to={`/cursos/producto/${curse.nombre.toLowerCase().replaceAll(' ','_')}`}>
+                              <div key={curse.id}  className='curse-container'>
+                                <div className='img-container'>
+                                  <img src={curse.img} alt={curse.img} className='styled-img'/>
+                                  <p className='styled-p'>{curse.nombre} – <strong>{curse.precio}</strong></p>
+                                </div>
                               </div>
-                            </div>
+                            </Link>
                             )
                           } 
                           )
